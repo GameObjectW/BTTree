@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: TX_tong_0348
+  m_Shader: {fileID: 4800000, guid: 192afb6d1b5df0542b457f7a513635bf, type: 3}
+  m_ShaderKeywords: _ENABLECUSTOMFOG_ON _ENABLEREFLECTIONS_ON
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 2800000, guid: 63bcf0600e223154f9cb1dd1f9bcdf71, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 795d1abd183bd1348a6bd1da00bdf689, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap2:
+        m_Texture: {fileID: 2800000, guid: 186538c9a6986dd4ca41b1089742d1ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Control:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GlossMap:
+        m_Texture: {fileID: 2800000, guid: 186538c9a6986dd4ca41b1089742d1ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LargeWavesTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainBump:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c42dcc4ca804b3a46acd59b200d33f63, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex2:
+        m_Texture: {fileID: 2800000, guid: 88d40806f96d82f4c8d2346d899bee3a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MediumWavesTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MotionTex:
+        m_Texture: {fileID: 2800000, guid: c094c3a8d2fbbec42a06abd354b8c4e9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ReflectionTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ShadowOffset:
+        m_Texture: {fileID: 2800000, guid: 186538c9a6986dd4ca41b1089742d1ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SmallWavesTexture:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecGlossMap:
+        m_Texture: {fileID: 2800000, guid: f48793602b23b1b40933ef6d1a31e6e3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat0:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat1:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat2:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Splat3:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TranslucencyMap:
+        m_Texture: {fileID: 2800000, guid: 186538c9a6986dd4ca41b1089742d1ce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ZheZhao:
+        m_Texture: {fileID: 2800000, guid: 8bf98513e408ce94792448bb308023cf, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AO: 2.8
+    - _BaseLight: 0.531
+    - _ColorMask: 15
+    - _ColorStrength: 1
+    - _Cutoff: 0.642
+    - _Density: 1.74
+    - _DepthTransparency: 1.5
+    - _DiffuseThreshold: -1.1
+    - _Diffusion: 10
+    - _Distortion: 0.3
+    - _EnableCustomFog: 1.446453
+    - _EnableReflections: 0.5
+    - _Fade: 1.45
+    - _FoamBlend: 0.15
+    - _FoamContrast: 0.25
+    - _FoamDistFade: 9.5
+    - _FoamDistFalloff: 16
+    - _FoamIntensity: 10
+    - _FoamSpeed: 120
+    - _FoamTiling: 3
+    - _FoamVisibility: 0.3
+    - _FogDistance: 1000
+    - _FogFade: 1
+    - _Gloss: 0.787
+    - _InvFade: 3
+    - _IterationNumber: 16
+    - _LargeWaveRefraction: 1.5
+    - _LargeWavesSpeed: -40
+    - _LargeWavesTiling: 0.3
+    - _LightWrapping: 0
+    - _MediumWaveRefraction: 1.8
+    - _MediumWavesSpeed: 40
+    - _MediumWavesTiling: 0.5
+    - _MotionAmount: 0.025
+    - _NormalIntensity: 2
+    - _Occlusion: 2.3
+    - _Opacity: 1
+    - _ReflectionIntensity: 0.5
+    - _ShadowStrength: 0
+    - _Shininess: 0.044
+    - _ShoreFade: 0.3
+    - _ShoreTransparency: 0.04
+    - _SmallWaveRrefraction: 2.2
+    - _SmallWavesSpeed: -20
+    - _SmallWavesTiling: 1
+    - _SpecIntensity: 0.45
+    - _Specular: 1
+    - _SquashAmount: 1
+    - _Stencil: 0
+    - _StencilComp: 8
+    - _StencilOp: 0
+    - _StencilReadMask: 255
+    - _StencilWriteMask: 255
+    - _TranslucencyViewDependency: 1
+    - _UnderwaterMode: 0
+    - _UseUIAlphaClip: 0
+    - _Value: 1
+    - _WaveBlend: 0.77
+    - _WaveFade: 1.19
+    - _XSpeed: 0
+    - _YSpeed: 0
+    m_Colors:
+    - _Color: {r: 1, g: 0.76551723, b: 0, a: 0.816}
+    - _DeepWaterColor: {r: 0, g: 0.34117648, b: 0.62352943, a: 1}
+    - _Diffusecolor: {r: 1, g: 1, b: 1, a: 1}
+    - _Direction: {r: 1, g: 1, b: -1, a: -1}
+    - _EmisColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 0}
+    - _FoamColor: {r: 0.38235286, g: 0.38797578, b: 0.38797578, a: 1}
+    - _FogColor: {r: 1, g: 1, b: 1, a: 1}
+    - _MainColor: {r: 0, g: 0.462745, b: 1, a: 1}
+    - _SpecColor: {r: 1, g: 0.6, b: 0, a: 1}
+    - _Speccolor: {r: 1, g: 1, b: 1, a: 1}
+    - _Specular: {r: 0, g: 0, b: 0, a: 0}
+    - _TintColor: {r: 1.0514705, g: 0.12370241, b: 0.12370241, a: 1}
+    - _TranslucencyColor: {r: 0.8088235, g: 0.41835698, b: 0, a: 1}
+    - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
