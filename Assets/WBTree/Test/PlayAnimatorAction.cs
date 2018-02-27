@@ -19,7 +19,7 @@ namespace Assets.WBTree.Test
         protected override void Enter()
         {
             base.Enter();
-            
+          
             if (!vo.Ani.GetCurrentAnimatorStateInfo(0).IsName(AniName))
             {
                 vo.Ani.SetTrigger(AniName);
