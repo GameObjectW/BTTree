@@ -282,7 +282,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\_NewBTTree\Core\NewBehaviourScript.cs" />
     <Compile Include="Assets\_NewBTTree\Core\Util.cs" />
     <Compile Include="Assets\_NewBTTree\Core\W_ActionNode.cs" />
     <Compile Include="Assets\_NewBTTree\Core\W_BTNode.cs" />
